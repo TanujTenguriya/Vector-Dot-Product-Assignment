@@ -1,2 +1,2 @@
-# Vector-Dot-Product-Assignment
+# Vector-Dot-Product
 Assignment 4
